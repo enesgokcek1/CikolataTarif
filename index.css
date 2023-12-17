@@ -1,0 +1,28 @@
+body
+{
+    background-color: #F9E8D9;
+}
+ol
+{
+    font-size: 17px;
+}
+ul
+{
+    font-size: 17px;
+}
+.warming
+{
+    border: 10px;
+    background-color: #527853;
+    color: aliceblue;
+    height: fit-content;
+    width:fit-content;
+}
+h2
+{
+    border: 10px;
+    background-color: #527853;
+    color: aliceblue;
+    height: fit-content;
+    width:fit-content;
+}
